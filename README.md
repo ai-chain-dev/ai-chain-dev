@@ -75,7 +75,6 @@ I focus on building **high-performance, scalable, production-ready applications*
 
 ## 📫 Contact
 - GitHub: https://github.com/clientstack
-- LinkedIn: (add your LinkedIn)
 
 ---
 
