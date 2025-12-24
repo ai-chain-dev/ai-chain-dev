@@ -1,49 +1,52 @@
-# Hi, I’m Alan Guerrero 👋
+# 👋 Hi there
 
-Full-Stack Developer specializing in **AI**, **Blockchain**, and **Web Technologies**, with a strong focus on building **scalable, production-ready applications** end to end.
+Full-Stack Developer specializing in **AI**, **Blockchain**, and **Web Technologies**, with strong expertise in **Solidity** and **Web3.js**.
 
-I enjoy working across the stack — from system design and backend services to modern frontends — especially on products that combine **intelligence, decentralization, and great user experience**.
+I focus on building **high-performance, scalable, production-ready applications**, and I work comfortably across the full stack — from smart contracts and backend services to modern web frontends.
 
 ---
 
 ## 🧠 What I Do
-- Build **full-stack web applications** with modern frameworks and APIs
-- Develop **AI-powered features** (LLM integrations, automation, data pipelines)
-- Design and maintain **blockchain / DeFi backends**, indexers, and on-chain integrations
-- Architect **scalable backend systems** with strong security and performance guarantees
-- Containerize and deploy applications using **Docker and CI/CD pipelines**
+- Build **end-to-end full-stack applications** with clean architecture
+- Develop and audit **Solidity smart contracts**
+- Integrate blockchain logic using **Web3.js**
+- Build **AI-powered features** and automation workflows
+- Design **high-performance backend systems** with scalability and reliability in mind
+- Collaborate closely with designers, product managers, and engineers to ship quality products
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**
+- Solidity
 - Python
 - Rust
 - Go
 - TypeScript / JavaScript
 
-**AI / ML**
-- LLM integrations (OpenAI, Claude, etc.)
-- RAG systems & automation workflows
+**Blockchain / Web3**
+- Solidity smart contracts
+- Web3.js
+- DeFi protocol backends
+- Blockchain indexing & event processing
+- Smart contract integrations (EVM-based chains)
+
+**AI / Automation**
+- LLM integrations
+- RAG systems
 - Data processing & inference pipelines
 
 **Backend**
 - FastAPI, Django
 - Node.js
-- REST, GraphQL, gRPC
+- REST, GraphQL
 - PostgreSQL, Redis
-
-**Blockchain / Web3**
-- DeFi protocol backends
-- Blockchain indexing & event processing
-- Smart contract integrations
-- Multi-chain architectures (EVM & non-EVM)
 
 **DevOps / Infra**
 - Docker & Docker Compose
-- CI/CD
-- AWS / Cloud services
+- CI/CD pipelines
+- Cloud infrastructure (AWS)
 
 **Frontend**
 - React
@@ -52,29 +55,28 @@ I enjoy working across the stack — from system design and backend services to 
 
 ---
 
-## 🔍 Areas of Interest
-- AI-driven products & intelligent automation
-- Blockchain infrastructure & DeFi systems
-- Full-stack architecture & system design
-- Performance optimization & reliability
-- Clean, maintainable, and scalable codebases
+## 🤝 How I Work
+- Strong believer in **clear communication and collaboration**
+- Comfortable working with **cross-functional teams**
+- Write **clean, maintainable code** with performance in mind
+- Review code carefully and value constructive feedback
+- Focus on shipping **reliable, user-focused products**
 
 ---
 
 ## 🚀 Highlights
-- Built AI-enabled features integrated into production web apps
-- Designed and operated backend systems for blockchain and DeFi projects
-- Delivered full-stack solutions from idea to deployment
-- Improved system performance through profiling, caching, and concurrency
-- Collaborated closely with product and design teams
+- Built and shipped **high-performance DeFi and Web3 products**
+- Developed secure and optimized **Solidity smart contracts**
+- Delivered full-stack features from smart contracts to UI
+- Improved performance through profiling, caching, and concurrency
+- Worked closely with teams to turn ideas into production systems
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/clientstack
 - LinkedIn: (add your LinkedIn)
-- Email: (optional)
 
 ---
 
-> Always interested in building impactful products at the intersection of **AI, Blockchain, and Web**.
+> Passionate about building scalable, high-impact products at the intersection of **AI, Blockchain, and Web**.
